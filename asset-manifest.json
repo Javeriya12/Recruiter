@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Recruiter/static/css/main.00727e48.css",
+    "main.js": "/Recruiter/static/js/main.e584389e.js",
+    "static/js/787.2cd5649f.chunk.js": "/Recruiter/static/js/787.2cd5649f.chunk.js",
+    "index.html": "/Recruiter/index.html",
+    "main.00727e48.css.map": "/Recruiter/static/css/main.00727e48.css.map",
+    "main.e584389e.js.map": "/Recruiter/static/js/main.e584389e.js.map",
+    "787.2cd5649f.chunk.js.map": "/Recruiter/static/js/787.2cd5649f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00727e48.css",
+    "static/js/main.e584389e.js"
+  ]
+}
